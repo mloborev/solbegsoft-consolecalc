@@ -1,0 +1,7 @@
+C:\Users\maxim\source\repos\ConsoleNetFramework\ConsoleNetFramework\bin\Debug\ConsoleNetFramework.exe.config
+C:\Users\maxim\source\repos\ConsoleNetFramework\ConsoleNetFramework\bin\Debug\ConsoleNetFramework.exe
+C:\Users\maxim\source\repos\ConsoleNetFramework\ConsoleNetFramework\bin\Debug\ConsoleNetFramework.pdb
+C:\Users\maxim\source\repos\ConsoleNetFramework\ConsoleNetFramework\obj\Debug\ConsoleNetFramework.csproj.AssemblyReference.cache
+C:\Users\maxim\source\repos\ConsoleNetFramework\ConsoleNetFramework\obj\Debug\ConsoleNetFramework.csproj.CoreCompileInputs.cache
+C:\Users\maxim\source\repos\ConsoleNetFramework\ConsoleNetFramework\obj\Debug\ConsoleNetFramework.exe
+C:\Users\maxim\source\repos\ConsoleNetFramework\ConsoleNetFramework\obj\Debug\ConsoleNetFramework.pdb
